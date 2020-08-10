@@ -1,10 +1,9 @@
 Tracking my progress
 https://www.udemy.com/course/aprende-programacion-en-java-desde-cero/
 
-Total course length: 55h 44m
 Current progress: 0/55h 44m
-
-## Introducción y entrada/salida
+<detals open>
+<summary> ## Introducción y entrada/salida </summary>
 
 - [ ] Intro Bloque 1 (Introudcción a Java)
 - [ ] Descargar Neatbeans
@@ -15,6 +14,7 @@ Current progress: 0/55h 44m
 - [ ] Constantes
 - [ ] Entrada y salida de datos por consola
 - [ ] Entrada y salida de datos con JOptionPane
+</details>
 
 Operadores
 Condicionales

@@ -2,9 +2,9 @@ Tracking my progress
 https://www.udemy.com/course/aprende-programacion-en-java-desde-cero/
 
 Current progress: 0/55h 44m
-<detals open>
+<details open>
 <summary> ## Introducción y entrada/salida </summary>
-
+<br>
 - [ ] Intro Bloque 1 (Introudcción a Java)
 - [ ] Descargar Neatbeans
 - [ ] Hola mundo en Java

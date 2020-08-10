@@ -1,14 +1,14 @@
 Tracking my progress
 https://www.udemy.com/course/aprende-programacion-en-java-desde-cero/
 
-Current progress: 0/55h 44m
+Current progress: 0h 25m/55h 44m
 
 ### Introducción y entrada/salida 
 
-- [ ] Intro Bloque 1 (Introudcción a Java)
-- [ ] Descargar Neatbeans
-- [ ] Hola mundo en Java
-- [ ] Comentarios
+- [x] ~~Intro Bloque 1 (Introudcción a Java)~~
+- [x] ~~Descargar Neatbeans
+- [x] ~~Hola mundo en Java
+- [x] ~~Comentarios
 - [ ] Tipos de datos primitivos
 - [ ] Tipos de datos no primitivos y cadenas
 - [ ] Constantes

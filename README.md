@@ -6,9 +6,9 @@ Current progress: 0h 25m/55h 44m
 ### Introducción y entrada/salida 
 
 - [x] ~~Intro Bloque 1 (Introudcción a Java)~~
-- [x] ~~Descargar Neatbeans
-- [x] ~~Hola mundo en Java
-- [x] ~~Comentarios
+- [x] ~~Descargar Neatbeans~~
+- [x] ~~Hola mundo en Java~~
+- [x] ~~Comentarios~~
 - [ ] Tipos de datos primitivos
 - [ ] Tipos de datos no primitivos y cadenas
 - [ ] Constantes

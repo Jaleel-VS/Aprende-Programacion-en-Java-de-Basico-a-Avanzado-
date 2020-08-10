@@ -4,7 +4,7 @@ https://www.udemy.com/course/aprende-programacion-en-java-desde-cero/
 Current progress: 0/55h 44m
 <details open>
 <summary> ## Introducción y entrada/salida </summary>
-<br>
+<pre>
 - [ ] Intro Bloque 1 (Introudcción a Java)
 - [ ] Descargar Neatbeans
 - [ ] Hola mundo en Java
@@ -14,6 +14,7 @@ Current progress: 0/55h 44m
 - [ ] Constantes
 - [ ] Entrada y salida de datos por consola
 - [ ] Entrada y salida de datos con JOptionPane
+</pre>
 </details>
 
 Operadores

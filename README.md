@@ -6,15 +6,15 @@ Current progress: 0/55h 44m
 
 ##Introcción y entrada/salida
 
-- [ ]Intro Bloque 1 (Introudcción a Java)
-- [ ]Descargar Neatbeans
-- [ ]Hola mundo en Java
-- [ ]Comentarios
-- [ ]Tipos de datos primitivos
-- [ ]Tipos de datos no primitivos y cadenas
-- [ ]Constantes
-- [ ]Entrada y salida de datos por consola
-- [ ]Entrada y salida de datos con JOptionPane
+- [ ] Intro Bloque 1 (Introudcción a Java)
+- [ ] Descargar Neatbeans
+- [ ] Hola mundo en Java
+- [ ] Comentarios
+- [ ] Tipos de datos primitivos
+- [ ] Tipos de datos no primitivos y cadenas
+- [ ] Constantes
+- [ ] Entrada y salida de datos por consola
+- [ ] Entrada y salida de datos con JOptionPane
 
 Operadores
 Condicionales
